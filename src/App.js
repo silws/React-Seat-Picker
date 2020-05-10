@@ -106,7 +106,7 @@ function SeatPicker() {
 	}
 
 	/*
-		If you wish to have buttons (sqares) instead of the seat icons:
+		If you wish to have buttons (squares) instead of the seat icons:
 		- simply change "img" to "button"
 		- replace "alt" with "value" (here and also in handleSeatClick)
 		- remove  "src={r.src}"
