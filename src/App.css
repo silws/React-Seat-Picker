@@ -1,0 +1,38 @@
+.rows {
+    display: inline-block;
+    margin:3px;
+}
+
+.button-free {
+    width: 100%;
+    max-width: 35px;
+    box-sizing: border-box;
+    background-color: transparent;
+    color: white;
+    font-family: bold;
+    font-size: 11px;
+    border: none;
+}
+
+.button-busy {
+    width: 100%;
+    max-width: 35px;
+    box-sizing: border-box;
+    background-color: transparent;
+    color: white;
+    font-family: bold;
+    font-size: 11px;
+    border: none;
+    pointer-events: none;
+}
+
+.button-picked {
+    width: 100%;
+    max-width: 35px;
+    box-sizing: border-box;
+    background-color: transparent;
+    color: white;
+    font-family: bold;
+    font-size: 11px;
+    border: none;
+}
